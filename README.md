@@ -4,9 +4,7 @@ A template to create a CV while learning HTML and CSS
 
 ## See it live!
 
-Click on <https://buas-media-interactive.github.io/prj4-cv/> to see what the résumé looks like when published!
-
- **Please replace the address above by your CV's own address, since this is a link to the original template!**
+Click on <https://thijmenvanriet.github.io/-Thijmen.van.Riets.Resume/> to see what the résumé looks like when published!
 
 ## Create your own CV
 
