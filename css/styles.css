@@ -15,6 +15,7 @@ body {
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
+
 .resume-header {
     background-color: #168056;
 	color: white
@@ -51,4 +52,10 @@ body {
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
+}
+
+.different-font {
+  font-family: "Unbounded", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
 }
